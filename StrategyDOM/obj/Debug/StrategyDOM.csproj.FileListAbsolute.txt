@@ -1,0 +1,15 @@
+C:\Users\LinaferJu\source\repos\StrategyDOM\StrategyDOM\bin\Debug\StrategyDOM.dll
+C:\Users\LinaferJu\source\repos\StrategyDOM\StrategyDOM\bin\Debug\StrategyDOM.pdb
+C:\Users\LinaferJu\source\repos\StrategyDOM\StrategyDOM\bin\Debug\Apache.NMS.ActiveMQ.dll
+C:\Users\LinaferJu\source\repos\StrategyDOM\StrategyDOM\bin\Debug\Apache.NMS.dll
+C:\Users\LinaferJu\source\repos\StrategyDOM\StrategyDOM\bin\Debug\TeleSharp.TL.dll
+C:\Users\LinaferJu\source\repos\StrategyDOM\StrategyDOM\bin\Debug\TLSharp.Core.dll
+C:\Users\LinaferJu\source\repos\StrategyDOM\StrategyDOM\bin\Debug\Apache.NMS.pdb
+C:\Users\LinaferJu\source\repos\StrategyDOM\StrategyDOM\bin\Debug\Apache.NMS.xml
+C:\Users\LinaferJu\source\repos\StrategyDOM\StrategyDOM\bin\Debug\Apache.NMS.ActiveMQ.pdb
+C:\Users\LinaferJu\source\repos\StrategyDOM\StrategyDOM\bin\Debug\Apache.NMS.ActiveMQ.xml
+C:\Users\LinaferJu\source\repos\StrategyDOM\StrategyDOM\obj\Debug\StrategyDOM.csproj.CoreCompileInputs.cache
+C:\Users\LinaferJu\source\repos\StrategyDOM\StrategyDOM\obj\Debug\StrategyDOM.csproj.CopyComplete
+C:\Users\LinaferJu\source\repos\StrategyDOM\StrategyDOM\obj\Debug\StrategyDOM.dll
+C:\Users\LinaferJu\source\repos\StrategyDOM\StrategyDOM\obj\Debug\StrategyDOM.pdb
+C:\Users\LinaferJu\source\repos\StrategyDOM\StrategyDOM\obj\Debug\StrategyDOM.csprojAssemblyReference.cache
